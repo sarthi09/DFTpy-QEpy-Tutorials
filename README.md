@@ -1,2 +1,2 @@
 # LLNL-2
-Lecture 2
+The (almost) all-Python DFTpy and QEpy softwares
