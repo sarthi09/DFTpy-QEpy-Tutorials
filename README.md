@@ -6,9 +6,9 @@ The (almost) all-Python DFTpy and QEpy softwares
 - Submit your notebook to instructor: simply save your notebook, then git commit and push.
 - Use the Google Colaboratory as instructed.
 
-# Your instructor and TAs:
+# Your instructors:
  - Michele Pavanello m.pavanello@rutgers.edu
  - Xuecheng Shao
- - Kaili Jiang
+ - Xin Chen
  - Jessica Martinez
- - Andres Cifuentes
+ - Valeria Rios Vargas
