@@ -1,6 +1,11 @@
 # LLNL-2
 The (almost) all-Python DFTpy and QEpy softwares
 
+### Reference  
+This repository contains materials cloned from the original **Quantum-MultiScale-Template** repository.  
+🔗 [Original Source](https://github.com/Quantum-MultiScale-Template)  
+All credit for the original content goes to the respective authors.
+
 # How to:
 - Anwer polls and challenges: add a new cell after the poll and insert your answer(s).
 - Submit your notebook to instructor: simply save your notebook, then git commit and push.
